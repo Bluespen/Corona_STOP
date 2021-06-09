@@ -46,7 +46,6 @@ namespace team_proj
             this.btn_clear = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.btn_find = new System.Windows.Forms.Button();
-            this.btn_apply = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.picbox_map)).BeginInit();
             this.SuspendLayout();
             // 
@@ -144,22 +143,12 @@ namespace team_proj
             // 
             resources.ApplyResources(this.textBox1, "textBox1");
             this.textBox1.Name = "textBox1";
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
-            this.textBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
             // 
             // btn_find
             // 
             resources.ApplyResources(this.btn_find, "btn_find");
             this.btn_find.Name = "btn_find";
             this.btn_find.UseVisualStyleBackColor = true;
-            this.btn_find.Click += new System.EventHandler(this.btn_find_Click);
-            // 
-            // btn_apply
-            // 
-            resources.ApplyResources(this.btn_apply, "btn_apply");
-            this.btn_apply.Name = "btn_apply";
-            this.btn_apply.UseVisualStyleBackColor = true;
-            this.btn_apply.Click += new System.EventHandler(this.btn_apply_Click);
             // 
             // Form1
             // 
@@ -168,7 +157,6 @@ namespace team_proj
             this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.btn_find);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.btn_apply);
             this.Controls.Add(this.btn_clear);
             this.Controls.Add(this.picbox_map);
             this.Controls.Add(this.label2);
@@ -183,7 +171,6 @@ namespace team_proj
             this.Controls.Add(this.scr_time);
             this.Controls.Add(this.scr_scale);
             this.Controls.Add(this.chk_listbox);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.picbox_map)).EndInit();
             this.ResumeLayout(false);
@@ -209,7 +196,6 @@ namespace team_proj
         private System.Windows.Forms.Button btn_clear;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button btn_find;
-        private System.Windows.Forms.Button btn_apply;
     }
 }
 
