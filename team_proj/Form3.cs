@@ -47,8 +47,6 @@ namespace team_proj
                 i++;
             }
 
-
-
             OpenFile(excel);
         }
 
@@ -2304,8 +2302,38 @@ namespace team_proj
                 {
                     int Udong = Convert.ToInt32(excel.ReadCell(item.Num, ttTime));
                     //label4.Text = excel.ReadCell(item.Num, ttTime);//1분당으로 할지 시간 정하기
-                    label4.Text = (Udong / 60).ToString() + "명";
+                    label4.Text = (Udong / 4).ToString() + "명"; // 검파노초
+
+
+                    if ((Udong / 4) >= 3200)
+                    {
+                        label7.ForeColor = Color.Red; //한량 탑승인원 320명 초과 시 1량에 코로나 확진자가 있을시 밀집접촉자 최대 64명
+                        label7.Text = "매우 위험!";
+                        return;
+                    }
+                    if ((Udong / 4) >= 2400 && (Udong / 4) < 3200)
+                    {
+                        label7.ForeColor = Color.Yellow; //한량 탑승인원 320명 초과 시 밀집접촉자 최대 32명 ,최소 4명
+                        label7.Text = "위험!";
+                        return;
+                    }
+                    if ((Udong / 4) >= 1000 && (Udong / 4) < 2399)
+                    {
+                        label7.ForeColor = Color.Green; // 밀접접촉 4명
+                        label7.Text = "보통!";
+                        return;
+                    }
+                    if ((Udong / 4) < 1000)
+                    {
+                        label7.ForeColor = Color.Blue;// 1명 이하
+                        label7.Text = "안전!";
+                        return;
+                    }
                 }
+
+
+
+
             }
             /*
             int Name;
@@ -2315,7 +2343,7 @@ namespace team_proj
             int minUdong = (Udong / 60);
             label4.Text = minUdong.ToString();
             */
-            
+
 
 
 
@@ -2337,6 +2365,7 @@ namespace team_proj
             label4.Font = new System.Drawing.Font("맑은고딕", 9, FontStyle.Bold);
             label5.Font = new System.Drawing.Font("맑은고딕", 9, FontStyle.Bold);
             label6.Font = new System.Drawing.Font("맑은고딕", 9, FontStyle.Bold);
+            label7.Font = new System.Drawing.Font("맑은고딕", 27, FontStyle.Bold);
         }
 
 

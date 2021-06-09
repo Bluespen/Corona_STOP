@@ -74,3 +74,22 @@ C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team
 C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.GenerateResource.cache
 C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.CoreCompileInputs.cache
 C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\lg-UG\team_proj.resources.dll
+C:\Users\장혜원\source\repos\team_proj\team_proj\team_proj\obj\Debug\team_proj.csproj.ResolveComReference.cache
+C:\Users\장혜원\source\repos\team_proj\team_proj\team_proj\obj\Debug\team_proj.Form2.resources
+C:\Users\장혜원\source\repos\team_proj\team_proj\team_proj\obj\Debug\team_proj.Form3.resources
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\bin\Debug\team_proj.exe.config
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\bin\Debug\team_proj.exe
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\bin\Debug\team_proj.pdb
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\bin\Debug\lg-UG\team_proj.resources.dll
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.csprojAssemblyReference.cache
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.csproj.ResolveComReference.cache
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.Form1.resources
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.Form2.resources
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.Form3.resources
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.Properties.Resources.resources
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.Form1.lg-UG.resources
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.csproj.GenerateResource.cache
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.csproj.CoreCompileInputs.cache
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\lg-UG\team_proj.resources.dll
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.exe
+C:\Users\youin\OneDrive\Documents\카카오톡 받은 파일\최종일려나\team_proj\team_proj\obj\Debug\team_proj.pdb
