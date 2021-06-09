@@ -11,3 +11,66 @@ C:\Users\장혜원\source\repos\team_proj\team_proj\team_proj\obj\Debug\team_pro
 C:\Users\장혜원\source\repos\team_proj\team_proj\team_proj\bin\Debug\lg-UG\team_proj.resources.dll
 C:\Users\장혜원\source\repos\team_proj\team_proj\team_proj\obj\Debug\team_proj.Form1.lg-UG.resources
 C:\Users\장혜원\source\repos\team_proj\team_proj\team_proj\obj\Debug\lg-UG\team_proj.resources.dll
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\bin\Debug\team_proj.exe.config
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\bin\Debug\team_proj.exe
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\bin\Debug\team_proj.pdb
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\bin\Debug\lg-UG\team_proj.resources.dll
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csprojAssemblyReference.cache
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form1.resources
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Properties.Resources.resources
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form1.lg-UG.resources
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.GenerateResource.cache
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.CoreCompileInputs.cache
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\lg-UG\team_proj.resources.dll
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\team_proj.exe
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\team_proj.pdb
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form2.resources
+C:\Users\youin\OneDrive\바탕 화면\유인영 대학\인영\응소실\팀플\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form3.resources
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\bin\Debug\team_proj.exe.config
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\bin\Debug\team_proj.exe
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\bin\Debug\team_proj.pdb
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\bin\Debug\lg-UG\team_proj.resources.dll
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csprojAssemblyReference.cache
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form1.resources
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form2.resources
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form3.resources
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Properties.Resources.resources
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form1.lg-UG.resources
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.GenerateResource.cache
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.CoreCompileInputs.cache
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\lg-UG\team_proj.resources.dll
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.exe
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.pdb
+C:\Users\youin\OneDrive\바탕 화면\새 폴더 (2)\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.ResolveComReference.cache
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csprojAssemblyReference.cache
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.ResolveComReference.cache
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form1.resources
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form2.resources
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form3.resources
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Properties.Resources.resources
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form1.lg-UG.resources
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.GenerateResource.cache
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.CoreCompileInputs.cache
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.exe
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\team_proj.pdb
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\bin\Debug\team_proj.exe.config
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\bin\Debug\team_proj.exe
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\bin\Debug\team_proj.pdb
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\bin\Debug\lg-UG\team_proj.resources.dll
+C:\Users\youin\OneDrive\Documents\teamPro\중간 검토\team_proj\team_proj\obj\Debug\lg-UG\team_proj.resources.dll
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csprojAssemblyReference.cache
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.ResolveComReference.cache
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.exe
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.pdb
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\bin\Debug\team_proj.exe.config
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\bin\Debug\team_proj.exe
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\bin\Debug\team_proj.pdb
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\bin\Debug\lg-UG\team_proj.resources.dll
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form1.resources
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form2.resources
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form3.resources
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Properties.Resources.resources
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.Form1.lg-UG.resources
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.GenerateResource.cache
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\team_proj.csproj.CoreCompileInputs.cache
+C:\Users\장혜원\source\repos\중간 검토\team_proj\team_proj\obj\Debug\lg-UG\team_proj.resources.dll
