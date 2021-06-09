@@ -57,6 +57,7 @@ namespace team_proj
             this.chk_listbox.FormattingEnabled = true;
             this.chk_listbox.Name = "chk_listbox";
             this.chk_listbox.ItemCheck += new System.Windows.Forms.ItemCheckEventHandler(this.chk_listbox_ItemCheck);
+            this.chk_listbox.SelectedIndexChanged += new System.EventHandler(this.chk_listbox_SelectedIndexChanged);
             // 
             // scr_scale
             // 
@@ -143,12 +144,15 @@ namespace team_proj
             // 
             resources.ApplyResources(this.textBox1, "textBox1");
             this.textBox1.Name = "textBox1";
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.textBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
             // 
             // btn_find
             // 
             resources.ApplyResources(this.btn_find, "btn_find");
             this.btn_find.Name = "btn_find";
             this.btn_find.UseVisualStyleBackColor = true;
+            this.btn_find.Click += new System.EventHandler(this.btn_find_Click);
             // 
             // btn_apply
             // 
@@ -179,6 +183,7 @@ namespace team_proj
             this.Controls.Add(this.scr_time);
             this.Controls.Add(this.scr_scale);
             this.Controls.Add(this.chk_listbox);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.picbox_map)).EndInit();
             this.ResumeLayout(false);
